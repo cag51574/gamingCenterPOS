@@ -1,0 +1,50 @@
+FirstName: 2
+LastName: 28
+PhoneNumber: 8
+Email: 8
+DLNumber: 9
+StoreCardNumber: 9
+DateCreated: 2016/05/16/02:38:11
+TimePurchased: 7
+TimeOfPurchase: 1463366291507
+TimeElapsedSincePurchase: 9930212272
+HoursLeft: none
+MinutesLeft: none
+FirstName: qgm
+LastName: 89
+PhoneNumber: vu
+Email: y
+DLNumber: y
+StoreCardNumber: y
+DateCreated: 2016/05/16/02:38:18
+TimePurchased: y
+TimeOfPurchase: 1463366298379
+TimeElapsedSincePurchase: 9930205400
+HoursLeft: none
+MinutesLeft: none
+
+
+
+
+
+
+
+
+
+FirstName: camd
+LastName: none
+PhoneNumber: none
+Email: none
+DLNumber: none
+StoreCardNumber: none
+DateCreated: 2016/05/20/20:26:06
+TimePurchased: none
+TimeOfPurchase: 1463775966096
+TimeElapsedSincePurchase: 9520537683
+HoursLeft: none
+MinutesLeft: none
+
+
+
+
+
